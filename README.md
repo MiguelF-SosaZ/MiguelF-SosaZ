@@ -6,7 +6,7 @@ Some technologies I currently enjoy working with: Python, SQL Server, Power BI, 
 Do you have any tips that will allow me to improve my projects? I would be very grateful.
 
 
-- 📫 How to reach me ...
+- 📫 How to reach me:
 
 Find me on [LinkedIn](https://www.linkedin.com/in/miguel-f-sosa/)
 Or through my e-mail: miguelsosamb@gmail.com
